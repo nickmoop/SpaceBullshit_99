@@ -1,0 +1,70 @@
+-------------------------------------------------------------------------------
+GALAXY
+	VARIABLES:
+		VISIBLE:
+			global_time
+			position
+		INVISIBLE:
+			?
+	METHODS:(can do)
+		travel between systems,waiting
+		random events
+		select fleet
+		select system
+-------------------------------------------------------------------------------
+SYSTEM
+	VARIABLES:
+		VISIBLE:
+			?
+		INVISIBLE:
+			?
+	METHODS:(can do)
+		travel between planets
+		waiting
+		random events?
+		attack fleet
+		attack planet
+-------------------------------------------------------------------------------
+PLANET
+	VARIABLES:
+		VISIBLE:
+			?
+		INVISIBLE:
+			?
+	METHODS:(can do)
+		trade
+		design ship
+		??random events
+		quest
+		build(if owned)
+-------------------------------------------------------------------------------
+SHIP
+	VARIABLES:
+		VISIBLE:
+			?
+		INVISIBLE:
+			?
+	METHODS:(can do)
+		place spots
+		place objects
+		place cell
+		check market?
+-------------------------------------------------------------------------------
+BATTLE SPACE
+	VARIABLES:
+		VISIBLE:
+			?
+		INVISIBLE:
+			?
+	METHODS:(can do)
+			?
+-------------------------------------------------------------------------------
+BATTLE ON BOARD
+	VARIABLES:
+		VISIBLE:
+			?
+		INVISIBLE:
+			?
+	METHODS:(can do)
+			?
+-------------------------------------------------------------------------------

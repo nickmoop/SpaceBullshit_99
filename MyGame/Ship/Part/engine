@@ -1,0 +1,39 @@
+id 1
+name engine_Mk.I
+condition 10
+speed_galaxy 10
+speed_battle 5
+maneuverability 1
+energy_consumption 3
+
+id 2
+name engine_Mk.II
+condition 10
+speed_galaxy 20
+speed_battle 10
+maneuverability 2
+energy_consumption 3
+
+id 3
+name engine_Mk.III
+condition 10
+speed_galaxy 30
+speed_battle 10
+maneuverability 2
+energy_consumption 2
+
+id 4
+name engine_Mk.IV
+condition 10
+speed_galaxy 40
+speed_battle 15
+maneuverability 3
+energy_consumption 5
+
+id 5
+name engine_Mk.V
+condition 10
+speed_galaxy 50
+speed_battle 15
+maneuverability 3
+energy_consumption 4

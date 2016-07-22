@@ -1,0 +1,19 @@
+id 1
+name white_floor
+color white
+
+id 2
+name red_floor
+color red
+
+id 3
+name green_floor
+color green
+
+id 4
+name blue_floor
+color blue
+
+id 5
+name yellow_floor
+color yellow

@@ -1,0 +1,70 @@
+id:100
+name:SYSTEM NAME 0
+position:0,6
+planets:100,101,102,103,104,
+size:5
+intensity:red,0.19734612080364977
+state:0
+id:110
+name:SYSTEM NAME 1
+position:5,4
+planets:110,
+size:1
+intensity:blue,0.7205246021058509
+state:0
+id:120
+name:SYSTEM NAME 2
+position:8,8
+planets:120,121,
+size:2
+intensity:white,0.8716146613526982
+state:0
+id:130
+name:SYSTEM NAME 3
+position:7,9
+planets:130,131,
+size:2
+intensity:yellow,0.2773727934610942
+state:0
+id:140
+name:SYSTEM NAME 4
+position:8,1
+planets:140,141,142,143,
+size:4
+intensity:white,0.8145648240028877
+state:0
+id:150
+name:SYSTEM NAME 5
+position:9,3
+planets:150,151,
+size:2
+intensity:blue,0.5442715531943888
+state:0
+id:160
+name:SYSTEM NAME 6
+position:6,1
+planets:160,161,162,
+size:3
+intensity:white,0.9317285497270433
+state:0
+id:170
+name:SYSTEM NAME 7
+position:3,7
+planets:170,171,
+size:2
+intensity:white,0.9484553014589512
+state:0
+id:180
+name:SYSTEM NAME 8
+position:4,9
+planets:180,181,182,183,184,
+size:5
+intensity:white,0.7692737673120211
+state:0
+id:190
+name:SYSTEM NAME 9
+position:5,5
+planets:190,191,192,193,
+size:4
+intensity:yellow,0.39959944201908215
+state:0

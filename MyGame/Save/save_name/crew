@@ -1,0 +1,17 @@
+id:0
+name:First name,Second name
+race:RACE 1
+position:18,6
+health:100
+attack:0
+speed:0
+breath_gas:0
+pilot:0
+turret:0
+engine:0
+shield:0
+reactor:0
+repair:0
+head:0
+suit:0
+weapon:0

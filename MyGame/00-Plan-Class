@@ -1,0 +1,151 @@
+-------------------------------------------------------------------------------
+CREW:
+	VARIABLES:
++		ID:
+			on galaxy
++		NAME:
+			first name,second name
++		RACE:
+			??
++		POSITION:
+			x,y on ship map
++		PRIMARY:
+			health,attack,speed,breath_gas
++		CONSOLE:
+			pilot,turret,engine,shield,reactor,repair
++		INVENTORY:
+			head,suit,weapon
+		TARGET:
+			??x,y,type
++		ITEM:
+			for painting/erasing
+	METHODS:
++		erase():		
++-		paint():
+		showOverall():
+-------------------------------------------------------------------------------
+SHIP:
+	VARIABLES:
++		ID:
+			on galaxy
++		NAME:
+			name
++		RACE:
+			bonuses
++		MODEL:
+			bonuses
++		SIZE:
+			size(base number of empty spots)
++		CREW:
+			list of crew id
++		POSITION:
+			on_galaxy[x,y]
+			on_battle[x,y]
++		COURSE:
+			on_galaxy[x,y]
+			on_battle[direction_x,direction_y]
++		SPOT LIST:
+			x,y,hull,gas,object,object_id,object_durability
+			OBJECT ON SPOT:
+				wall,door,reactor,engine,turret,shield(generator),console
++		STATS:
+			speed,maneuverability,shield(front,right,back,left)
+?		HOLD:
+			trade_good:value,slave_id,object_id:value
++		ITEM:
+			for painting/erasing
+	METHODS:
+		erase():
+		paint():
+		eraseOnMap():
+		paintOnMap():
+		showOverall():
+-------------------------------------------------------------------------------
+PLANET:
+	VARIABLES:
++		ID:
+			on galaxy
++		NAME:
+			name
+		POSITION:
+			on orbit by time
++		ORBIT:
+			number of orbit
++		STAT:
+			size,gravity(G),radiation,atmosphere,
+			usability(suitable,asteroid,gas giant)
++		BUILDINGS LIST:
+			buildings(by id)
++-		RESOURCE:
+			population,??
+		RACE:
+			??
+		OVERALL:
+			??
++		ITEM:
+			for painting/erasing
+	METHODS:
++		erase():
+		paint():
+		showOverall():
+-------------------------------------------------------------------------------
+SYSTEM:
+	VARIABLES:
++		ID:
+			on galaxy
++		NAME:
+			name
++		POSITION:
+			x,y,on galaxy map
++		PLANETS:
+			list of ID
++		STAT:
+			intensity(0-3),size
++		STATE:
+			??
++		ITEM:
+			for painting/erasing
+	METHODS:
++		erase():
++		paint():
+		showOverall():
+-------------------------------------------------------------------------------
+OBJECT:
+	VARIABLES:
++		GROUP:
+			console,door,engine,floor,reactor,shield,turret,wall
++		ID:
+			on file
++		NAME:
+			name
++		CONDITION:
+			value
++		SKILL_TYPE:
+			skill_name
++		SKILL_UPGRADE:
+			value
++		ENERGY_CONSUMPTION:
+			value
++		SPEED_GALAXY:
+			value
++		SPEED_BATTLE:
+			value
++		MANEUVERABILITY:
+			value
++		PROTECTION:
+			value
++		RECOVERY:
+			value
++		DAMAGE_FORM:
+			missile,beam,energy
++		DAMAGE:
+			value
++		DISTANCE:
+			value
+?		TILE:
+
+		COLOR:
+?							
+?	METHODS:
+		
+-------------------------------------------------------------------------------

@@ -1,0 +1,53 @@
+id 1
+name missile_Mk.I
+condition 10
+damage_form missile
+damage 1
+distance 10
+recovery 2
+energy_consumption 0
+
+id 2
+name energy_Mk.I
+condition 10
+damage_form energy
+damage 2
+distance 5
+recovery 4
+energy_consumption 3
+
+id 3
+name beam_Mk.I
+condition 10
+damage_form beam
+damage 3
+distance 2
+recovery 4
+energy_consumption 3
+
+id 4
+name missile_Mk.II
+condition 10
+damage_form missile
+damage 2
+distance 15
+recovery 2
+energy_consumption 0
+
+id 5
+name energy_Mk.II
+condition 10
+damage_form energy
+damage 3
+distance 8
+recovery 4
+energy_consumption 3
+
+id 6
+name beam_Mk.II
+condition 10
+damage_form beam
+damage 5
+distance 4
+recovery 3
+energy_consumption 4

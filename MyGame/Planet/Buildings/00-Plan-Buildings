@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+TYPE:
+	defense,production,special
+ID:
+	id
+NAME:
+	name
+UPGRADE:
+	DEFENSE:
+		bunker_type:value(better with better grade.not summ)
+	PRODUCTION:
+		resource_type:value(in time ??)
+	SPECIAL:
+		???
+TILE:
+	????

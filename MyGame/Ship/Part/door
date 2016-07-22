@@ -1,0 +1,19 @@
+id 1
+name door_Mk.I
+condition 10
+
+id 2
+name door_Mk.II
+condition 10
+
+id 3
+name door_Mk.III
+condition 10
+
+id 4
+name door_Mk.IV
+condition 10
+
+id 5
+name door_Mk.V
+condition 10

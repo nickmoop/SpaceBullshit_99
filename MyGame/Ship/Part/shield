@@ -1,0 +1,34 @@
+id 1
+name shield_Mk.I
+condition 10
+protection 5
+recovery 1
+energy_consumption 3
+
+id 2
+name shield_Mk.II
+condition 10
+protection 10
+recovery 1
+energy_consumption 3
+
+id 3
+name shield_Mk.III
+condition 10
+protection 15
+recovery 2
+energy_consumption 4
+
+id 4
+name shield_Mk.IV
+condition 10
+protection 20
+recovery 2
+energy_consumption 4
+
+id 5
+name shield_Mk.V
+condition 10
+protection 25
+recovery 3
+energy_consumption 5

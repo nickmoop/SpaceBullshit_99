@@ -1,0 +1,19 @@
+id 1
+name wall_Mk.I
+condition 10
+
+id 2
+name wall_Mk.II
+condition 20
+
+id 3
+name wall_Mk.III
+condition 30
+
+id 4
+name wall_Mk.IV
+condition 40
+
+id 5
+name wall_Mk.V
+condition 50

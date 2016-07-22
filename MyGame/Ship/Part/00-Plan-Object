@@ -1,0 +1,43 @@
+-------------------------------------------------------------------------------
++	GROUP:(in file name)
+		console,door,dynamo,engine,shield,turret
++	ID:
+		id
++	NAME:
+		name
+	UPGRADE:
+		FLOOR:
++			color:value
+		WALL:
++			condition:value
+		CONSOLE:
++			condition:value
++			skill_type:skill_name
++			skill_upgrade:value
++			energy_consumption:value
+		DOOR:
++			condition:value
+		REACTOR:
++			condition:value
++			energy_consumption:value(of produced)
+		ENGINE:
++			condition:value
++			speed_galaxy:value
++			speed_battle:value
++			maneuverability:value
++			energy_consumption:value
+		SHIELD:
++			condition:value
++			protection:value
++			recovery:value
++			energy_consumption:value
+		TURRET:
++			condition:value
++			damage_form:missile,energy,beam
++			damage:value
++			distance:value
++			recovery:value
++			energy_consumption:value
+??	TILE:
+		(make tile tables??)
+		

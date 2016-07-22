@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+TYPE:
+	head,suit,weapon
+ID:
+	id
+NAME:
+	name
+UPGRADE:
+	HEAD:
+		stat_type:value(+-pilot,turret,engine,shield,dynamo,repair,health,attack,speed,)
+	SUIT:
+		stat_type:value(+-pilot,turret,engine,shield,dynamo,repair,health,attack,speed,)
+	WEAPON:
+		damage_type(melee,shrapnel,beam):value(damage range)
+TILE:
+	????
